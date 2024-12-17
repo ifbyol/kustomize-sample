@@ -1,4 +1,4 @@
 deploy:
   commands:
-  - kustomize build base
+  # - kustomize build base
   - envsubst --version
